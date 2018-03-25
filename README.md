@@ -9,3 +9,6 @@ my vscode plugins
 ### Document this
 ### Guides
 ### PostCSS syntax
+### Bracket Pair Colorizer (对括号对进行着色)
+### VSCode Great Icons (一套Icons主题，对展开的文件有变色处理，很容易分辨)
+### Path Intellisense (路径提示器)
