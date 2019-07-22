@@ -14,3 +14,4 @@ my vscode plugins
 ### Path Intellisense (路径提示器)
 ### Auto Close Tag (自动闭合标签)
 ### Auto Rename Tag (自动修改另一部分标签)
+### Path Autocomplete (自动完成包路径)
